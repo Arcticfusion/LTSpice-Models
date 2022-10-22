@@ -1,0 +1,5 @@
+* Model follows instructions to best of ability
+.model irl3803 VDMOS(Rg=5.27356 Rd=0.0001 Rs=0.00374412 Vto=1.0 Kp=55 lambda=1 Cgdmax=4.5n Cgdmin=0.8n Cgs=5.5n Cjo=4.09446e-09 Is=9.10142e-10 Rb=0 Vj=2.08848)
+
+* Model only takes data from PSpice SPICE model
+.model irl3803_pspice VDMOS(Rg=5.27356 Rd=0.0001 Rs=0.00374412 Vto=2.19991 Kp=242.082 lambda=0.066277 Cgdmax=4.5n Cgdmin=1e-11 Cgs=3.4e-05 Cjo=4.09446e-09 Is=9.10142e-10 Rb=0 Vj=2.08848)
