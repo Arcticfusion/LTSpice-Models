@@ -16,7 +16,7 @@ Resources have been created using instructions from [this tutorial](http://www.s
 
 All datasheets have been found publicly online. You can find the specific referenced files in `references.md`.
 
-To get the original PSpice files, you need access to the PSpice application. You can get a trial [here](https://www.orcad.com/pspice-free-trial). It is only available for Windows machines. Technically, once you have this, you may be able to find all the components you need in the files and will likely not need these files.
+To get the original PSpice files, you need access to the PSpice application. You can get a trial [here](https://www.orcad.com/pspice-free-trial). It is only available for Windows machines. Technically, once you have this, you should be able to find all the components you need in the files and will likely not need my resources. `cmp.md` maps all the subcircuits found in all the `.lib` files to their respective `.lib` files. This will hopefully help you find any models you need.
 
 ----
 
