@@ -1,4 +1,4 @@
-/tools/capture/library/fpga/xilinx/cds.lib
+./tools/capture/library/fpga/xilinx/cds.lib
 ./tools/capture/library/fpga/altera/cds.lib
 ./tools/capture/library/fpga/actel/cds.lib
 ./tools/capture/templates/pspice/Buck_Boost_Converter-PSpiceFiles/buck_boost_converter.lib
