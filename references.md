@@ -8,4 +8,4 @@ To get the PSpice files, you need access to the PSpice application. OrCAD only m
 | -------- | --------------------- | ----------- | ---------------- |
 | IRL3803  | 20221022              | Datasheet   | https://www.infineon.com/dgdl/Infineon-IRL3803-DataSheet-v02_01-EN.pdf?fileId=5546d462533600a40153565f80172554 |
 | IRL3803  | 20221022              | Datasheet   | https://pdf1.alldatasheet.com/datasheet-pdf/view/68854/IRF/IRL3803.html                                        |
-| IRL3803  | 20221022              | PSpice file | FILE:///tools/pspice/library/irf.lib                                                                           |
+| IRL3803  | 17.4                  | PSpice file | FILE:///tools/pspice/library/irf.lib                                                                           |
