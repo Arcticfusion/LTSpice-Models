@@ -1,5 +1,7 @@
 # Map of Components to PSpice Files
 
+Typically the PSpice files are installed in `C:\\Cadence\SPB_<version_number>`. This is the assumed root folder for these paths. Yes, these are UNIX paths, but it was much easier to filter this on MacOS than on Windows. The files are readable on UNIX systems, you just can't download them without a windows device.
+
 | Component | PSpice File |
 | --------- | ----------- |
 | LM741 | ./tools/capture/tclscripts/caplearningresources/hybrid/supportfiles/BasicElectronics/opamp/designfiles/opamp.lib |
